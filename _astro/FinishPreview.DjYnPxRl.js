@@ -90,7 +90,6 @@ vFinishUv = uv;`),e.fragmentShader=e.fragmentShader.replace(`#include <common>`,
           * step(0.0, finishUv.y) * step(finishUv.y, 1.0);
         vec3 finishCol = ffeFlakeAlbedo(finishUv);
         vec2 sourceUv = vImageUv;
-        vec3 sourceCenter = texture2D(uSourcePhoto, sourceUv).rgb;
         vec2 lowOffset = vec2(0.16, 0.18);
         vec3 sourceBroad = texture2D(uSourcePhoto, sourceUv).rgb * 0.16;
         sourceBroad += texture2D(uSourcePhoto, sourceUv + vec2(lowOffset.x, 0.0)).rgb * 0.14;
@@ -101,6 +100,9 @@ vFinishUv = uv;`),e.fragmentShader=e.fragmentShader.replace(`#include <common>`,
         sourceBroad += texture2D(uSourcePhoto, sourceUv - lowOffset).rgb * 0.14;
         float sourceLuma = dot(sourceBroad, vec3(0.2126, 0.7152, 0.0722));
         float illumination = mix(1.0, clamp(0.92 + sourceLuma * 0.1, 0.9, 1.04), uUseSourcePhoto);
+        vec4 maskSample = texture2D(uMask, vec2(imageUv.x, 1.0 - imageUv.y));
+        float maskValue = mix(1.0, dot(maskSample.rgb, vec3(0.299, 0.587, 0.114)), uUseMask);
+        float exclusionValue = texture2D(uExclusionMask, sourceUv).r;
         vec3 finishLit = finishCol * illumination;
         gl_FragColor = vec4(finishLit, inside * uCompare * uReveal * maskValue * exclusionValue * uGeometryValid);
         #include <colorspace_fragment>
