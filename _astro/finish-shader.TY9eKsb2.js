@@ -40,12 +40,12 @@ vec3 flakeField(vec2 uv, float density, float sizeMul) {
   mat2 chipRotation = mat2(cos(angle), -sin(angle), sin(angle), cos(angle));
   chipPoint = chipRotation * chipPoint;
   chipPoint.y *= 1.25 + hash21(gid + 51.7) * 0.7;
-  float size = (0.085 + n * 0.085) * sizeMul;
+  float size = (0.03 + n * 0.018) * sizeMul;
   float angularDistance = max(abs(chipPoint.x) + abs(chipPoint.y) * 0.28, abs(chipPoint.y));
   float edgeWidth = max(fwidth(angularDistance) * 0.8, 0.004);
   float chip = (1.0 - smoothstep(size * 0.72 - edgeWidth, size + edgeWidth, angularDistance)) * step(0.20, n);
   vec3 col = n < 0.34 ? uA : n < 0.64 ? uB : uC;
-  col += vec3(pow(n2, 15.0) * 0.28);
+  col += vec3(pow(n2, 15.0) * 0.02);
   vec3 base = mix(uA, uB, 0.16 + noise(uv * 8.0) * 0.08);
   return mix(base, col, chip);
 }
