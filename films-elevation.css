@@ -79,12 +79,40 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
   .act-copy .job-credit,.interior-hero .job-credit{max-width:100%}
   .interior-lead{max-width:34rem}
 }
+.interior-plate video.job-film{
+  z-index:1;
+  opacity:0;
+  transition:opacity .7s ease;
+}
+.interior-plate video.job-film[data-ready]{opacity:1}
+
+.act-handoff{
+  position:absolute;
+  left:0;
+  right:0;
+  z-index:2;
+  height:22vh;
+  pointer-events:none;
+  opacity:0;
+  background:linear-gradient(to bottom,#faf9f6 0%, rgb(250 249 246 / 0) 100%);
+}
+.act-handoff--enter{top:0}
+.act-handoff--exit{
+  top:auto;
+  bottom:0;
+  height:18vh;
+  background:linear-gradient(to top,#faf9f6 0%, rgb(250 249 246 / 0) 100%);
+}
+
 @media (prefers-reduced-motion:reduce){
   .interior-plate video.job-film{display:none}
+  .act-handoff{display:none}
   .button:active{transform:none}
 }
 html[data-journey-tier=still] .interior-plate video.job-film,
-html[data-journey-motion=still] .interior-plate video.job-film{display:none}
+html[data-journey-motion=still] .interior-plate video.job-film,
+html[data-journey-tier=still] .act-handoff,
+html[data-journey-motion=still] .act-handoff{display:none}
 
 /* Social footer, ported from the staging treatment. */
 .footer-contact .social-links{flex-wrap:wrap;gap:.6rem;margin-top:1.15rem;padding-top:1rem;border-top:1px solid var(--line);display:flex}
