@@ -1,5 +1,9 @@
 # Motion pass, 2026-11-16
 
+## Video revert, 2026-11-17
+
+The elevation film encodes were put back to the 15 Nov job films. Posters for those films were put back with them. The Domino pour, garage, walkway, and mancave files were already unchanged. About and Process had no earlier film, so those two new clips were removed and the previous stills returned. Captions, motion, and the other build additions stayed.
+
 Three keep-or-revert cycles on the films elevation cut. Staging already had that cut before this pass. The Domino pour files and the Midnight Aggregate stairs files were not rewritten.
 
 ## Cycle 1, kept: paper seams
