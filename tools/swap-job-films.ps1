@@ -28,12 +28,12 @@ function Copy-WithBackup([string]$from, [string]$to) {
   Write-Output "copied $to"
 }
 
+# Do not copy epoxy-resources-stairs. The live files are the Midnight Aggregate cut.
 $videos = @(
   "epoxy-basement.mp4",
   "epoxy-finish.mp4",
   "epoxy-commercial.mp4",
-  "epoxy-consultation.mp4",
-  "epoxy-resources-stairs.mp4"
+  "epoxy-consultation.mp4"
 )
 foreach ($quality in @("720", "480")) {
   foreach ($name in $videos) {
@@ -50,7 +50,6 @@ $posters = @(
   "epoxy-finish-poster.jpg",
   "epoxy-commercial-poster.jpg",
   "epoxy-consultation-poster.jpg",
-  "epoxy-resources-stairs-poster.webp",
   "luminous-finish-hall.jpg",
   "luminous-finish-hall.webp",
   "foundation-chamber.jpg",
