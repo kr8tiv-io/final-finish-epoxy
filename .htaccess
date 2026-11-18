@@ -15,6 +15,8 @@ RewriteEngine On
 RewriteRule ^areas/?$ /service-area [R=301,L]
 RewriteRule ^areas/edmonton/?$ /service-area [R=301,L]
 RewriteRule ^areas/(sherwood-park|st-albert|leduc|fort-saskatchewan|spruce-grove|beaumont)/?$ /service-area/$1 [R=301,L]
+# 18 Nov 2026 SEO pass: Red Deer (154 km by road) is outside the 145 km service area. Page removed; send old links to the area hub.
+RewriteRule ^service-area/red-deer/?$ /service-area [R=301,L]
 
 # Serve the canonical slash-less page URLs (/services, /projects, ...) directly, the
 # way the node server does, instead of letting the directory-slash rule 301 every
