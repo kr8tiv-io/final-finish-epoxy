@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Final Finish Epoxy · request an update · KR8TIV</title>
+  <meta name="description" content="Final Finish Epoxy update form. Send the words to replace, the replacement, and any photo or video. Two small tweaks are included under the KR8TIV terms.">
+  <link rel="stylesheet" href="../kr8tiv-report.css">
+</head>
+<body>
+  <header class="mast">
+    <div class="wrap brand-row">
+      <a href="https://kr8tiv.io"><img src="../brand/kr8tiv-logo-clean.svg" alt="KR8TIV"></a>
+      <nav class="nav-links" aria-label="Update form">
+        <a href="../report/">SEO and GEO report</a>
+        <a href="https://lightgrey-wasp-945457.hostingersite.com/">Staging site</a>
+        <a href="https://github.com/kr8tiv-io/final-finish-epoxy">GitHub</a>
+        <a href="https://kr8tiv.io/terms/#revisions">Terms</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="hero wrap">
+      <p class="kicker">KR8TIV · Final Finish Epoxy · updates</p>
+      <h1>Request an <em>update.</em></h1>
+      <p class="lede">This form is for Final Finish Epoxy only. It sends to kr8tiv@kr8tiv.io. Write the words that are on the site, then the words that should replace them.</p>
+      <hr class="rule">
+    </div>
+    <section>
+      <div class="wrap">
+        <div class="note">
+          <p><strong>Two small tweaks are included.</strong> KR8TIV terms, section 13: a small tweak is work that can reasonably be finished in about 30 minutes, such as a line of text, a colour, one image, or another export. The two tweaks last for six months from delivery. A new page, a new section, a full rewrite, or a layout change is a change order with its own quote. <a href="https://kr8tiv.io/terms/#revisions">Read section 13</a>.</p>
+        </div>
+        <form action="send.php" method="post" enctype="multipart/form-data">
+          <div class="hp" aria-hidden="true">
+            <label for="company_website">Company website</label>
+            <input id="company_website" name="company_website" tabindex="-1" autocomplete="off">
+          </div>
+          <input type="hidden" name="project" value="Final Finish Epoxy">
+          <div class="row">
+            <div>
+              <label for="your_name">Your name</label>
+              <input id="your_name" name="your_name" required autocomplete="name" maxlength="120">
+            </div>
+            <div>
+              <label for="email">Email for the reply</label>
+              <input id="email" name="email" type="email" required autocomplete="email" maxlength="160">
+            </div>
+          </div>
+          <div class="row">
+            <div>
+              <label for="phone">Phone, if you want a call back</label>
+              <input id="phone" name="phone" type="tel" autocomplete="tel" maxlength="40">
+            </div>
+            <div>
+              <label for="page_url">Page the change is on</label>
+              <input id="page_url" name="page_url" required placeholder="https://lightgrey-wasp-945457.hostingersite.com/..." maxlength="400">
+            </div>
+          </div>
+
+          <div id="pairs">
+            <div class="pair">
+              <div class="row">
+                <div>
+                  <label>Words on the site now</label>
+                  <textarea name="current_words[]" required maxlength="4000" placeholder="Paste the exact line."></textarea>
+                </div>
+                <div>
+                  <label>Words that should replace them</label>
+                  <textarea name="replacement_words[]" required maxlength="4000" placeholder="Write the replacement in full."></textarea>
+                </div>
+              </div>
+            </div>
+          </div>
+          <p><button type="button" class="ghost" id="add-pair">Add another change</button></p>
+
+          <label for="files">Photos, video, or a PDF</label>
+          <input id="files" name="files[]" type="file" accept="image/jpeg,image/png,image/webp,image/gif,video/mp4,video/webm,video/quicktime,application/pdf" multiple>
+          <p>Up to 3 files. 12 MB each. JPG, PNG, WEBP, GIF, MP4, WEBM, MOV, or PDF. For a larger film, send a link in the note.</p>
+
+          <label for="note">Anything else the change depends on</label>
+          <textarea id="note" name="note" maxlength="4000" placeholder="Which photo, which device, or which sentence if the page has the line more than once."></textarea>
+
+          <div class="check">
+            <input id="terms" name="terms" type="checkbox" value="yes" required>
+            <label for="terms">I have read section 13. I understand this project includes two small tweaks, and that a larger change is a new scope. <a href="https://kr8tiv.io/terms/#revisions">Terms</a>.</label>
+          </div>
+          <button type="submit">Send to KR8TIV</button>
+        </form>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <div class="wrap">
+      <p>KR8TIV · kr8tiv@kr8tiv.io · <a href="../report/">SEO and GEO report</a> · <a href="https://github.com/kr8tiv-io/final-finish-epoxy">GitHub</a></p>
+    </div>
+  </footer>
+  <script>
+    document.getElementById("add-pair").addEventListener("click", function () {
+      var holder = document.getElementById("pairs");
+      var pair = document.createElement("div");
+      pair.className = "pair";
+      pair.innerHTML = '<div class="row"><div><label>Words on the site now</label><textarea name="current_words[]" maxlength="4000"></textarea></div><div><label>Words that should replace them</label><textarea name="replacement_words[]" maxlength="4000"></textarea></div></div>';
+      holder.appendChild(pair);
+    });
+  </script>
+</body>
+</html>
