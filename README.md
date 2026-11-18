@@ -28,6 +28,7 @@ The film files and the Hostinger document root are not stored here.
 | --- | --- |
 | Staging site | https://lightgrey-wasp-945457.hostingersite.com/ |
 | SEO and GEO report | https://lightgrey-wasp-945457.hostingersite.com/kr8tiv/report/ |
+| PDF of that report | https://lightgrey-wasp-945457.hostingersite.com/kr8tiv/report/Final-Finish-Epoxy-SEO-GEO-2026-11-18.pdf |
 | Update form | https://lightgrey-wasp-945457.hostingersite.com/kr8tiv/updates/ |
 | Terms, section 13 | https://kr8tiv.io/terms/#revisions |
 | Studio | https://kr8tiv.io |
