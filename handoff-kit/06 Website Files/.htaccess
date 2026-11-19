@@ -28,6 +28,10 @@ RewriteRule ^areas/?$ /service-area [R=301,L]
 RewriteRule ^areas/edmonton/?$ /service-area [R=301,L]
 RewriteRule ^areas/(sherwood-park|st-albert|leduc|fort-saskatchewan|spruce-grove|beaumont)/?$ /service-area/$1 [R=301,L]
 
+# Red Deer is outside the service area. The town page was removed 19 November 2026.
+RewriteRule ^service-area/red-deer/?$ /service-area [R=301,L]
+RewriteRule ^service-area/red-deer/index\.html$ /service-area [R=301,L]
+
 RewriteCond %{REQUEST_URI} !/$
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteCond %{REQUEST_FILENAME}/index.html -f

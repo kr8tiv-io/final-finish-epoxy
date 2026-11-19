@@ -2,7 +2,7 @@
 
 This is a plain-text version of https://www.finalfinishepoxy.ca/finishes. The HTML page is the source of truth. The facts below match that page.
 
-Final Finish uses Torginol products. 17 most popular choices are shown first, with more from the Torginol flake collection below. Any Torginol flake colour is available, along with custom blends and specialized orders. The page's meta description also says "special orders."
+Final Finish uses Torginol products. The page shows 37 Torginol flake colours: 17 most popular choices first, then 20 more from the Torginol flake collection. Any Torginol flake colour is available, along with custom blends and specialized orders. The page's meta description also says "special orders."
 
 ## Most popular choices (17)
 
@@ -18,14 +18,17 @@ Stonehenge FB-427. Grey flake in cool grey, beige, and charcoal.
 Nightfall FB-715. Dark flake in navy, charcoal, black, and a pale grey chip.
 Raven FB-915. Dark flake in black, charcoal, and silver, with a pale flash.
 Domino FB-411. Dark flake in black, white, and grey, high contrast.
+Carbon F9202. Dark flake in near-black, charcoal, and a mid grey.
 Tidal Wave FB-807. Blue flake in deep blue, teal, foam, and a sand grey.
 Orbit FB-310. Blue flake in graphite blue, silver, pale grey, and black.
+Dolerite F9311. Fine stone-look flake in dark grey, black, and light grey.
+Basalt F9309. Fine stone-look flake in charcoal, black, and mid grey.
+
+## More from the Torginol flake collection (20)
+
 Waxwing FB-968. Warm flake in peach, sand, cream, and a little grey.
 Thyme FB-977. Grey-green flake in sage, cream, and a cool grey.
 Gravel FB-414. Grey flake in mid grey, charcoal, and pale chips.
-
-## More from the Torginol flake collection
-
 Creekbed FB-716. Warm flake in stone beige, tan, cream, and brown.
 Loon FB-966. Warm flake in cream, tan, and black, high contrast.
 Trailmix FB-613. Warm flake in cream, taupe, and a soft brown.

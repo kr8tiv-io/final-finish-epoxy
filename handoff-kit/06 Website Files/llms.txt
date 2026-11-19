@@ -95,8 +95,8 @@ Installation usually runs two days, and it varies with the concrete. When you ca
 
 ## Finishes and visualizer
 
-- Featured flake colours: https://www.finalfinishepoxy.ca/finishes. The page shows 17 most popular Torginol flake colours first, with more from the Torginol flake collection below. Any Torginol flake colour is available, along with custom blends and special orders (the body copy also says "specialized orders").
-- Floor visualizer: https://www.finalfinishepoxy.ca/floor-visualizer. The page says you can try 17 popular Torginol flake colours, plus 20 more, on a photo of your own garage or room. The preview runs on the device. Then you can request a free estimate.
+- Featured flake colours: https://www.finalfinishepoxy.ca/finishes. The page shows 37 Torginol flake colours: 17 most popular first, then 20 more from the Torginol flake collection. Any Torginol flake colour is available, along with custom blends and special orders (the body copy also says "specialized orders").
+- Floor visualizer: https://www.finalfinishepoxy.ca/floor-visualizer. The tool shows the same 37 Torginol flake colours as the finishes page: 17 most popular, plus 20 more from the collection, on a photo of your own garage or room. The preview runs on the device. Then you can request a free estimate.
 
 ## Other key pages
 
