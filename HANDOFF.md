@@ -8,6 +8,8 @@ Handoff kit release: https://github.com/kr8tiv-io/final-finish-epoxy/releases/ta
 
 Open **00 Start Here - Final Finish Handoff Kit.pdf** first.
 
+Every file in the kit except the website files also has its own direct link: [handoff-kit/README.md](handoff-kit/README.md). That includes each business card file and each brand kit file.
+
 | Folder | Contents |
 |---|---|
 | 00 Start Here | What is in the kit, reading order, links, updates, printing, site status, handover options |

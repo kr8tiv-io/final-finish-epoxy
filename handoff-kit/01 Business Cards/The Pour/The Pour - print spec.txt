@@ -1,0 +1,7 @@
+Final Finish Epoxy Coatings business card
+Trim: 2 x 3.5 in (vertical)
+Bleed: 0.125 in on all sides (files are 2.25 x 3.75 in at 300 dpi)
+Safe zone: keep text and logos 0.125 in inside the trim.
+Masks: black = finish area, same size as the print file.
+Format: vertical.
+Stock: gloss, or soft-touch with raised spot UV on the logo. Mask: front embossed gloss mask.

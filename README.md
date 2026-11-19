@@ -22,6 +22,12 @@ The review site is on the staging host. Search engines are asked to stay off tha
 
 The film files and the Hostinger document root are not stored here.
 
+## Handoff kit
+
+- [HANDOFF.md](HANDOFF.md): the handoff guide. Start here.
+- [handoff-kit/README.md](handoff-kit/README.md): direct links to every file, including the business cards, brand kit, Start Here and reports.
+- [Handoff kit release](https://github.com/kr8tiv-io/final-finish-epoxy/releases/tag/handoff-kit-2026-11-18): the full kit as zip files, including 06 Website Files.
+
 ## Links
 
 | | |

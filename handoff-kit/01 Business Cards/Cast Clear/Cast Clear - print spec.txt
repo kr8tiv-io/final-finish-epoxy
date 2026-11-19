@@ -1,0 +1,9 @@
+Final Finish Epoxy Coatings business card
+Trim: 3.5 x 2 in
+Bleed: 0.125 in on all sides (files are 3.75 x 2.25 in at 300 dpi)
+Safe zone: keep text and logos 0.125 in inside the trim.
+Masks: black = finish area, same size as the print file.
+One-sided card: front only, no back.
+Stock: clear plastic (PET or PVC), gloss. Vistaprint: Clear Plastic.
+Inks: CMYK plus white ink. White ink layer: black = white ink, under every printed area (text, logo, flakes). Unprinted areas stay clear; the art PNGs have true transparency (alpha 0).
+Ask for a clear-card proof before the run.

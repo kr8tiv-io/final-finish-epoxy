@@ -1,0 +1,56 @@
+FINAL FINISH EPOXY COATINGS - BUSINESS CARDS - PRINTER NOTES
+Client: Denis Tadic, Owner. (780) 991-1651. finalfinishepoxy@gmail.com. finalfinishepoxy.ca
+
+SIZE AND SETUP
+Trim: 3.5 x 2 in (The Pour is vertical, 2 x 3.5 in).
+Bleed: 0.125 in each side. Files are 3.75 x 2.25 in (1125 x 675 px) at 300 dpi; The Pour is 675 x 1125 px.
+Safe zone: all text and logos sit at least 0.125 in inside the trim.
+Print-ready PDF: "Final Finish Business Cards - PRINT READY.pdf". One page per face (Cast Clear: front plus its white ink page), crop marks outside the bleed, TrimBox and BleedBox set.
+Colour: in the print-ready PDF the opaque cards are CMYK, converted from sRGB with the Artifex CMYK SWOP profile (US Web Coated SWOP class), perceptual intent. Cast Clear stays RGB with true transparency. All PNG files are RGB (sRGB).
+Masks: black = finish area, white = no finish. Same pixel size as the print file. Finishes are kept 1/16 in inside the trim.
+PNG set: "PRINT FILES - PNG" holds the same art as the PDF, one file per face (Cast Clear is front only), plus masks and the Cast Clear white ink layers.
+
+STOCKS AND FINISHES PER CARD
+01 Silver Resin Corner: silver metallic or pearl stock. Raised spot UV on the resin corner (Front - Embossed gloss mask).
+02 Chip Type: soft-touch or matte black. Raised spot UV on the FINAL FINISH letters (Front - Embossed gloss mask).
+03 The Big F: soft-touch, 32 pt if available. Raised spot UV on the chrome F (Front - Embossed gloss mask). Silver painted edge optional.
+04 The Lens: matte or cotton. Thick raised spot UV dome over the logo (Front - Embossed gloss mask). Optional silver foil on the logo (Front - Foil mask).
+05 The Pour: vertical. Soft-touch with raised spot UV on the logo (Front - Embossed gloss mask), or full gloss.
+06 Flake Edge: 32 pt with painted edge (grey or black), or thick cotton. No masks.
+07 Cast Clear: ONE-SIDED (front only, no back). Clear plastic. CMYK plus white ink: white ink layer file, black = white ink, choked slightly inside the art. Empty areas are alpha 0 and stay clear. Ask for a clear-card proof.
+08 Exploded: smooth matte. Optional raised spot UV on the layer stack (Front - Embossed gloss mask) and silver foil on the logo (Front - Foil mask).
+
+WHERE TO PRINT: VISTAPRINT CANADA (vistaprint.ca)
+Vistaprint's upload size for standard cards is 3.61 x 2.11 in with bleed (1083 x 633 px), trim 3.5 x 2 in, safe area 3.36 x 1.86 in. Source: https://www.vistaprint.ca/hub/business-card-dimensions
+Use the files in "VISTAPRINT UPLOAD - PNG". They are the same art cropped to 1083 x 633 px (633 x 1083 for The Pour). The trim lines up exactly.
+Embossed gloss and foil: Vistaprint applies these to the front only. Upload the front PNG, then add the matching "layer" PNG from the same folder on top in the same position and set that layer to Embossed Gloss or Foil. You can also leave a note asking their team to apply the finish to that area.
+Raised Foil is not used: Vistaprint does not allow raised foil on uploaded designs.
+Prices are not listed here. Check the live product page.
+
+Card | Recommended (pick) | Also works
+01 Silver Resin Corner | PICK Embossed Gloss, matte 16pt, gloss layer on the resin corner | Soft Touch with embossed gloss option; Pearl
+02 Chip Type | PICK Soft Touch with embossed gloss option, gloss layer on the letters | Embossed Gloss, matte; Ultra Thick (32pt, UV glossy front)
+03 The Big F | PICK Soft Touch with embossed gloss option, gloss layer on the F | Painted Edge (32pt); Ultra Thick
+04 The Lens | PICK Embossed Gloss, matte 16pt, gloss layer on the lens | Foil Accent, silver, foil layer on the logo; Cotton (14.5pt, uncoated)
+05 The Pour | PICK Soft Touch with embossed gloss option, vertical, gloss layer on the logo | Premium Plus (18pt glossy); Ultra Thick
+06 Flake Edge | PICK Painted Edge (32pt, choose the grey or black edge colour closest to the flake) | Cotton; Ultra Thick
+07 Cast Clear | PICK Clear Plastic, one-sided | Frosted Plastic
+08 Exploded | PICK Embossed Gloss, matte 16pt, gloss layer on the layers | Soft Touch with embossed gloss option; Foil Accent, silver, foil layer on the logo
+
+Product pages (vistaprint.ca):
+Embossed Gloss: https://www.vistaprint.ca/business-cards/raised-print
+Soft Touch: https://www.vistaprint.ca/business-cards/soft-touch
+Foil Accent: https://www.vistaprint.ca/business-cards/metallic
+Painted Edge: https://www.vistaprint.ca/business-cards/painted-edge
+Ultra Thick: https://www.vistaprint.ca/business-cards/ultra-thick
+Premium Plus: https://www.vistaprint.ca/business-cards/premium-plus
+Cotton: https://www.vistaprint.ca/business-cards/cotton
+Pearl: https://www.vistaprint.ca/business-cards/pearl
+Matte: https://www.vistaprint.ca/business-cards/matte
+Clear Plastic: https://www.vistaprint.ca/business-cards/plastic/clear
+Frosted Plastic: https://www.vistaprint.ca/business-cards/plastic/frosted
+
+CAST CLEAR AT VISTAPRINT
+Cast Clear is a one-sided card. Order Clear Plastic and upload "07 Cast Clear - Front - Vistaprint 3.61x2.11.png" (transparent PNG, as Vistaprint asks).
+Vistaprint does not take a separate white ink file. White in the design prints white.
+Check the template on the Specs & Templates tab and the 3D preview before ordering.

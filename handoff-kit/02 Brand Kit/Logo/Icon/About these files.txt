@@ -1,0 +1,6 @@
+Icon (the F mark on its own)
+
+Chrome icon: raster PNG only, no vector. The source is 862 x 652 pixels, so the
+4000px file is enlarged and is for screen use. Keep printed chrome icons under 3 in / 7.5 cm.
+Cobalt, Black and White icons: true vector (SVG and PDF), any size.
+favicon.ico and the website icons are the files used on finalfinishepoxy.ca.

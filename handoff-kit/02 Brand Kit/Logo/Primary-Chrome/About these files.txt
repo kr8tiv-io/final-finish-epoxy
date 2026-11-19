@@ -1,0 +1,10 @@
+Chrome logo files
+
+The chrome logo is a raster image (PNG). There is no vector version of it.
+The source artwork is 1536 x 1024 pixels, so the 4000px files are enlarged
+from it and look soft when printed large (over about 5 in / 13 cm wide).
+For signs, vehicle wraps or large banners, ask the original logo designer for
+the master file, or use the Cobalt, Black or White versions, which are vector (SVG/PDF).
+
+"for dark backgrounds" has a silver wordmark.
+"for light backgrounds" has a darker wordmark that stays readable on white.

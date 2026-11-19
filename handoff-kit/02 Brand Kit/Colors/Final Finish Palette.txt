@@ -1,0 +1,30 @@
+Final Finish Epoxy Coatings colour palette
+Taken from the website (finalfinishepoxy.ca staging build).
+CMYK values are approximations (SWOP coated). Ask the printer for a proof when colour matters.
+
+
+PRIMARY
+Cobalt        HEX #164F83   RGB  22  79 131   CMYK 100  79  27  11   Accents, links, italic headline words
+Ink           HEX #17222A   RGB  23  34  42   CMYK  81  69  61  83   Headlines and dark buttons
+Paper         HEX #FAF9F6   RGB 250 249 246   CMYK   1   2   2   0   Page background
+Cobalt Dark   HEX #0D355B   RGB  13  53  91   CMYK 100  81  35  48   Deep blue panels
+Cobalt Light  HEX #6FA6CA   RGB 111 166 202   CMYK  58  24  10   0   Highlights on dark
+
+NEUTRALS
+Ink Body      HEX #3F4E57   RGB  63  78  87   CMYK  80  63  52  40   Body text
+Ink Quiet     HEX #54666F   RGB  84 102 111   CMYK  73  53  47  22   Small print, captions
+Muted         HEX #5D686C   RGB  93 104 108   CMYK  67  52  50  22   Secondary text
+Paper Cool    HEX #EDF1F2   RGB 237 241 242   CMYK   5   3   3   0   Cool panels
+Limestone     HEX #D8D1C3   RGB 216 209 195   CMYK  15  15  22   0   Lines and dividers
+Stone         HEX #ADA495   RGB 173 164 149   CMYK  35  33  42   1   Warm neutral
+Bronze        HEX #A57D42   RGB 165 125  66   CMYK  32  50  96  13   Small warm accents
+Bronze Tint   HEX #B49875   RGB 180 152 117   CMYK  30  39  62   3   Small warm accents
+
+FLAKE BLEND SWATCHES (website floor visualizer)
+Domino        HEX #E4E2DC   RGB 228 226 220   CMYK   9   8  12   0   Flake blend swatch
+Creekbed      HEX #B0A491   RGB 176 164 145   CMYK  33  33  45   1   Flake blend swatch
+Gravel        HEX #5F656B   RGB  95 101 107   CMYK  66  55  49  23   Flake blend swatch
+Stargazer     HEX #2A3038   RGB  42  48  56   CMYK  86  75  56  73   Flake blend swatch
+Nightfall     HEX #1A2430   RGB  26  36  48   CMYK  83  71  60  80   Flake blend swatch
+
+Logo one-colour versions: Cobalt #164F83, Black #000000 (print as 0 0 0 100), White #FFFFFF.

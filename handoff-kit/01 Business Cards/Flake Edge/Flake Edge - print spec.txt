@@ -1,0 +1,7 @@
+Final Finish Epoxy Coatings business card
+Trim: 3.5 x 2 in
+Bleed: 0.125 in on all sides (files are 3.75 x 2.25 in at 300 dpi)
+Safe zone: keep text and logos 0.125 in inside the trim.
+Masks: black = finish area, same size as the print file.
+Stock: thick cotton or 32 pt.
+Finish: painted edge (flake look, or the closest grey or black edge colour). The deboss look is printed in the art; a blind deboss of the logo is optional at a letterpress shop.

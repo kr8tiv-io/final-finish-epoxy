@@ -1,0 +1,6 @@
+Social media images
+
+Avatars (1080 x 1080): profile pictures for Facebook, Instagram, Google Business.
+The logo sits inside the centre so it survives the circle crop.
+Cover (1500 x 500): header image. Built from a real Final Finish floor photo.
+Facebook crops covers differently on phones, so keep the logo in the centre as it is.

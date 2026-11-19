@@ -1,0 +1,6 @@
+One-colour logo files (Cobalt, Black, White)
+
+These are true vector files (SVG and PDF), redrawn by hand as clean vector
+artwork from the approved chrome logo: straight edges, smooth curves, even gaps.
+They scale to any size: signs, vehicle graphics, vinyl, embroidery, engraving, stamps.
+PNG files have transparent backgrounds.
