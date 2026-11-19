@@ -1,2 +1,21 @@
+# Final Finish Epoxy Coatings (www.finalfinishepoxy.ca)
+# Search engines and reputable AI crawlers may read the public pages.
+# Private KR8TIV review paths stay closed.
+#
+# Reputable AI crawlers, including GPTBot, OAI-SearchBot, ChatGPT-User,
+# ClaudeBot, PerplexityBot, Googlebot, Google-Extended, and Bingbot,
+# fall through to User-agent: * and are allowed on public pages.
+# A named User-agent group would not inherit this catch-all.
+
 User-agent: *
 Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://www.finalfinishepoxy.ca/sitemap.xml
+
+# Machine-readable layer, same facts as the HTML pages:
+# https://www.finalfinishepoxy.ca/llms.txt
+# https://www.finalfinishepoxy.ca/llms-full.txt
+# Markdown mirrors use a .md suffix, for example /index.md and /services.md.

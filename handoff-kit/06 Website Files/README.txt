@@ -27,3 +27,10 @@ BUSINESS DETAILS USED ON THE SITE
 Final Finish Epoxy Coatings, Denis Tadic, Owner
 (780) 991-1651  finalfinishepoxy@gmail.com
 Monday to Friday, 8 a.m. to 5 p.m. Edmonton and about 145 km out.
+
+AI-READABLE LAYER (added 19 November 2026)
+Hand-written /llms.txt and /llms-full.txt, plus markdown mirrors of the key
+pages and town pages (same facts as the HTML). Each mirrored HTML page links
+to its .md file in the head. robots.txt allows reputable AI crawlers on public
+pages and keeps /kr8tiv/, /admin/ and /api/ closed. The sitemap lists the new
+files. This layer does not change the look of the site.

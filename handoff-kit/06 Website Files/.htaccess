@@ -47,4 +47,6 @@ RewriteRule ^(.+)$ /$1/index.html [L]
   AddType image/webp .webp
   AddType model/gltf-binary .glb
   AddType application/manifest+json .webmanifest
+  AddType text/markdown .md
+  AddType text/plain .txt
 </IfModule>
