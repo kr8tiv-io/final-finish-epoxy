@@ -1,0 +1,50 @@
+# Final Finish Epoxy production host (www.finalfinishepoxy.ca).
+Options -Indexes -MultiViews
+DirectorySlash On
+AddDefaultCharset UTF-8
+ErrorDocument 404 /404.html
+
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^finalfinishepoxy\.ca$ [NC]
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ http://www.finalfinishepoxy.ca%{REQUEST_URI} [R=301,L]
+RewriteCond %{HTTP_HOST} ^finalfinishepoxy\.ca$ [NC]
+RewriteCond %{HTTPS} =on
+RewriteRule ^ https://www.finalfinishepoxy.ca%{REQUEST_URI} [R=301,L]
+
+RewriteRule ^home/?$ / [R=301,L]
+RewriteRule ^blog/?$ /resources [R=301,L]
+RewriteRule ^blog/why-choose-epoxy-flooring/?$ /resources [R=301,L]
+RewriteRule ^blog/decorative-options-for-epoxy-flooring/?$ /finishes [R=301,L]
+RewriteRule ^blog/our-epoxy-flooring-process-from-estimate-to-finish/?$ /process [R=301,L]
+RewriteRule ^new-dropdown/?$ /services [R=301,L]
+RewriteRule ^cart/?$ / [R=301,L]
+RewriteRule ^services/residential-floors/?$ /services/residential-epoxy-flooring [R=301,L]
+RewriteRule ^services/commercial-floors/?$ /services/commercial-epoxy-flooring [R=301,L]
+RewriteRule ^services/concrete/?$ /services/concrete-solutions [R=301,L]
+
+RewriteRule ^areas/?$ /service-area [R=301,L]
+RewriteRule ^areas/edmonton/?$ /service-area [R=301,L]
+RewriteRule ^areas/(sherwood-park|st-albert|leduc|fort-saskatchewan|spruce-grove|beaumont)/?$ /service-area/$1 [R=301,L]
+
+RewriteCond %{REQUEST_URI} !/$
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteCond %{REQUEST_FILENAME}/index.html -f
+RewriteRule ^(.+)$ /$1/index.html [L]
+
+<IfModule mod_headers.c>
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' blob:; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self' blob:; font-src 'self' data:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'"
+  Header always set X-Frame-Options "DENY"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  Header always set X-Content-Type-Options "nosniff"
+</IfModule>
+
+<IfModule mod_mime.c>
+  AddType font/woff2 .woff2
+  AddType image/avif .avif
+  AddType image/webp .webp
+  AddType model/gltf-binary .glb
+  AddType application/manifest+json .webmanifest
+</IfModule>

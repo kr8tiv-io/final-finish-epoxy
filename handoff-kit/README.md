@@ -363,3 +363,10 @@ Folder: [05 Industry and Competitor Intelligence](https://github.com/kr8tiv-io/f
 Final Finish Epoxy Coatings, Denis Tadic, Owner. (780) 991-1651. finalfinishepoxy@gmail.com.
 
 KR8TIV: kr8tiv@kr8tiv.io. Update requests: https://lightgrey-wasp-945457.hostingersite.com/kr8tiv/updates/
+
+## 06 Website Files (updated 18 November 2026)
+
+The HTML, CSS, JavaScript and README for the finished website now live in this repo under [06 Website Files](https://github.com/kr8tiv-io/final-finish-epoxy/tree/main/handoff-kit/06%20Website%20Files). Images, fonts and videos are not stored here. Download the complete static site from the [handoff kit release](https://github.com/kr8tiv-io/final-finish-epoxy/releases/tag/handoff-kit-2026-11-18). Prefer the later **06 website-files v2** zip if it is listed; the original 06 zip is kept in the release as well.
+
+The v2 copy includes: “From this job” captions removed from cinematic renders, caption layout so body copy cannot overlap, plainer customer-facing wording, and “Surface Preparation” taken out of the header and footer menus (the page remains at /services/concrete-solutions/).
+
