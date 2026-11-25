@@ -1,11 +1,11 @@
-# Final Finish Epoxy Coatings (www.finalfinishepoxy.ca)
-# Search engines and reputable AI crawlers may read the public pages.
-# Private KR8TIV review paths stay closed.
-#
-# Reputable AI crawlers, including GPTBot, OAI-SearchBot, ChatGPT-User,
-# ClaudeBot, PerplexityBot, Googlebot, Google-Extended, and Bingbot,
-# fall through to User-agent: * and are allowed on public pages.
-# A named User-agent group would not inherit this catch-all.
+# Staging review host for Final Finish Epoxy Coatings
+# (https://lightgrey-wasp-945457.hostingersite.com).
+# This host is noindex. Keep Googlebot out of the review copy.
+# The production robots file on www.finalfinishepoxy.ca allows
+# search engines and reputable AI crawlers on the public pages.
+
+User-agent: Googlebot
+Disallow: /
 
 User-agent: *
 Allow: /
@@ -13,9 +13,99 @@ Disallow: /kr8tiv/
 Disallow: /admin/
 Disallow: /api/
 
-Sitemap: https://www.finalfinishepoxy.ca/sitemap.xml
+# Reputable AI crawlers (GPTBot, OAI-SearchBot, ChatGPT-User,
+# ClaudeBot, PerplexityBot, Google-Extended, Bingbot) are not
+# blocked on public pages here. They still receive noindex on
+# this host. Do not treat this review URL as the public site.
 
 # Machine-readable layer, same facts as the HTML pages:
-# https://www.finalfinishepoxy.ca/llms.txt
-# https://www.finalfinishepoxy.ca/llms-full.txt
-# Markdown mirrors use a .md suffix, for example /index.md and /services.md.
+# /llms.txt, /llms-full.txt, and markdown mirrors with a .md suffix.
+# The public sitemap lives at https://www.finalfinishepoxy.ca/sitemap.xml
+# and is not declared on this review host.
+
+# Explicit allows for reputable AI crawlers. This preview host stays noindex.
+# Googlebot remains disallowed above so the review copy is not indexed.
+
+User-agent: GPTBot
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Anthropic-Ai
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Bytespider
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: CCBot
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: meta-externalagent
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Google-CloudVertexBot
+Allow: /
+Disallow: /kr8tiv/
+Disallow: /admin/
+Disallow: /api/

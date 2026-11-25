@@ -1,43 +1,35 @@
-# Final Finish Epoxy production host (www.finalfinishepoxy.ca).
+# Final Finish Epoxy — temporary preview host.
+# Static export of the Astro build (dist/client). The node middleware is not
+# running here, so this file carries what src/middleware.ts and
+# dist/prerender-headers.json would otherwise add.
+
 Options -Indexes -MultiViews
 DirectorySlash On
 AddDefaultCharset UTF-8
+
+# /404 is an on-demand route in the app; the preview ships it as a static page.
 ErrorDocument 404 /404.html
 
+# Step 30 permanent redirects (mirrors PERMANENT_REDIRECTS in src/middleware.ts).
 RewriteEngine On
-
-RewriteCond %{HTTP_HOST} ^finalfinishepoxy\.ca$ [NC]
-RewriteCond %{HTTPS} !=on
-RewriteRule ^ http://www.finalfinishepoxy.ca%{REQUEST_URI} [R=301,L]
-RewriteCond %{HTTP_HOST} ^finalfinishepoxy\.ca$ [NC]
-RewriteCond %{HTTPS} =on
-RewriteRule ^ https://www.finalfinishepoxy.ca%{REQUEST_URI} [R=301,L]
-
-RewriteRule ^home/?$ / [R=301,L]
-RewriteRule ^blog/?$ /resources [R=301,L]
-RewriteRule ^blog/why-choose-epoxy-flooring/?$ /resources [R=301,L]
-RewriteRule ^blog/decorative-options-for-epoxy-flooring/?$ /finishes [R=301,L]
-RewriteRule ^blog/our-epoxy-flooring-process-from-estimate-to-finish/?$ /process [R=301,L]
-RewriteRule ^new-dropdown/?$ /services [R=301,L]
-RewriteRule ^cart/?$ / [R=301,L]
-RewriteRule ^services/residential-floors/?$ /services/residential-epoxy-flooring [R=301,L]
-RewriteRule ^services/commercial-floors/?$ /services/commercial-epoxy-flooring [R=301,L]
-RewriteRule ^services/concrete/?$ /services/concrete-solutions [R=301,L]
-
+RewriteRule ^service-area/red-deer/?$ /service-area [R=301,L]
+RewriteRule ^service-area/red-deer/index\.html$ /service-area [R=301,L]
 RewriteRule ^areas/?$ /service-area [R=301,L]
 RewriteRule ^areas/edmonton/?$ /service-area [R=301,L]
 RewriteRule ^areas/(sherwood-park|st-albert|leduc|fort-saskatchewan|spruce-grove|beaumont)/?$ /service-area/$1 [R=301,L]
 
-# Red Deer is outside the service area. The town page was removed 19 November 2026.
-RewriteRule ^service-area/red-deer/?$ /service-area [R=301,L]
-RewriteRule ^service-area/red-deer/index\.html$ /service-area [R=301,L]
-
+# Serve the canonical slash-less page URLs (/services, /projects, ...) directly, the
+# way the node server does, instead of letting the directory-slash rule 301 every
+# internal link to /services/.
 RewriteCond %{REQUEST_URI} !/$
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteCond %{REQUEST_FILENAME}/index.html -f
 RewriteRule ^(.+)$ /$1/index.html [L]
 
 <IfModule mod_headers.c>
+  # Preview host: never indexed (robots.txt already disallows everything).
+  Header always set X-Robots-Tag "noindex, nofollow"
+  # Same headers the app sends for every prerendered route.
   Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' blob:; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self' blob:; font-src 'self' data:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'"
   Header always set X-Frame-Options "DENY"
   Header always set Referrer-Policy "strict-origin-when-cross-origin"
@@ -51,6 +43,16 @@ RewriteRule ^(.+)$ /$1/index.html [L]
   AddType image/webp .webp
   AddType model/gltf-binary .glb
   AddType application/manifest+json .webmanifest
-  AddType text/markdown .md
-  AddType text/plain .txt
+</IfModule>
+
+# Long cache for static media and fonts. HTML, markdown and robots stay uncached
+# so a staging update is visible immediately. Hashed /_astro/ bundles already
+# set a one-year immutable cache in /_astro/.htaccess.
+<IfModule mod_headers.c>
+  <FilesMatch "\.(?i:avif|webp|jpe?g|png|gif|svg|ico|mp4|webm|woff2|glb)$">
+    Header set Cache-Control "public, max-age=31536000"
+  </FilesMatch>
+  <FilesMatch "\.(?i:html|md|txt|xml|webmanifest|json)$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
 </IfModule>
