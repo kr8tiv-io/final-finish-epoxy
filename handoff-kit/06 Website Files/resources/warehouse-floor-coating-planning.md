@@ -34,5 +34,5 @@ Keep exploring
 - Request a quote: https://www.finalfinishepoxy.ca/contact
 - Call Denis at (780) 991-1651
 - Email: finalfinishepoxy@gmail.com
-- Hours: Monday to Friday, 8 a.m. to 5 p.m.
+- Hours: Monday to Friday, 8 a.m. to 5 p.m. Closed Saturday and Sunday.
 - Google Business Profile: https://www.google.com/maps?cid=7470239776211762202

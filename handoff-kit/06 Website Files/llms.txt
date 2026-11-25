@@ -12,7 +12,7 @@ Prices are not published on the site, because every slab is different. Estimates
 - Phone: (780) 991-1651 (+1-780-991-1651)
 - Email: finalfinishepoxy@gmail.com
 - Request a quote: https://www.finalfinishepoxy.ca/contact
-- Hours: Monday to Friday, 8 a.m. to 5 p.m. (the site does not name a time zone)
+- Hours: Monday to Friday, 8 a.m. to 5 p.m. Closed Saturday and Sunday. (the site does not name a time zone)
 - Google Business Profile: https://www.google.com/maps?cid=7470239776211762202
 - The footer and services page say the business is rated 5.0 on Google, with a link to that profile
 - Instagram: https://www.instagram.com/final_finish_epoxy/
@@ -48,7 +48,7 @@ Town pages, with distances by road from central Edmonton as listed on https://ww
 
 Other towns inside the radius are handled the same way: call with the address and Denis will confirm the visit.
 
-## Six services
+## Services
 
 Listed on https://www.finalfinishepoxy.ca/services. Surface Preparation is a real service and has its own page, but it is not listed in the header or footer menus. It is still linked from body copy and from schema.
 
@@ -70,7 +70,7 @@ Listed on https://www.finalfinishepoxy.ca/services. Surface Preparation is a rea
    - https://www.finalfinishepoxy.ca/services#decorative-epoxy
    - Featured colours: https://www.finalfinishepoxy.ca/finishes
 
-6. Anti-Slip Coating. A textured top coat added as the last layer where a floor needs more grip. It is a use decision made with you. On commercial floors the texture is balanced against how the floor is cleaned, because a surface the cleaning machine cannot clean trades one problem for another.
+6. Anti-Slip Coating. An anti-slip top coat is standard on every Final Finish floor. It is a textured last layer. On commercial floors the texture is balanced against how the floor is cleaned, because a surface the cleaning machine cannot clean trades one problem for another.
    - https://www.finalfinishepoxy.ca/services#anti-slip-coating
 
 ## What Final Finish does not publish as a service
@@ -89,7 +89,7 @@ From https://www.finalfinishepoxy.ca/process, six steps in this order:
 3. Cosmetic crack filling. Visible cracks are filled so they do not read through the finish. If something structural turns up, the customer hears about it then, not later.
 4. The flake broadcast. Flake is broadcast into the coat while it is still open. This is where the colour and the pattern of the floor are set.
 5. The scrape. Once it has set, the surface is scraped back into a flat floor you can walk on and clean.
-6. The top coat. The last coat goes over everything. Where a room needs more grip, an Anti-Slip Coating goes on instead, as a decision made with the customer.
+6. The top coat. The last coat goes over everything. The last coat is an anti-slip top coat, standard on every floor.
 
 Installation usually runs two days, and it varies with the concrete. When you can park on the floor, and what it costs, depend on the slab and the conditions that week, and are written into the quote.
 

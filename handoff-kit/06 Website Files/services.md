@@ -2,9 +2,9 @@
 
 This is a plain-text version of https://www.finalfinishepoxy.ca/services. The HTML page is the source of truth. The facts below match that page.
 
-Six services, from Surface Preparation to the last Anti-Slip Coating. Denis quotes from the slab in front of him. Final Finish Epoxy Coatings is an Edmonton flooring contractor. Denis installs Torginol polymer flake floors and does the concrete work underneath them, from Edmonton out to about 145 km. The page also says the business is rated 5.0 on Google.
+The work runs from Surface Preparation through a finished flake floor, with an anti-slip top coat standard on every floor. Denis quotes from the slab in front of him. Final Finish Epoxy Coatings is an Edmonton flooring contractor. Denis installs Torginol polymer flake floors and does the concrete work underneath them, from Edmonton out to about 145 km. The page also says the business is rated 5.0 on Google.
 
-## The six services
+## The services
 
 ### Residential and Commercial Floors
 
@@ -40,7 +40,7 @@ Decorative Epoxy at Final Finish means a Torginol polymer flake floor: a base co
 
 ### Anti-Slip Coating
 
-Anti-Slip Coating is a textured top coat added as the last layer where a floor needs more grip. It is a use decision made with you, and on commercial floors the texture is balanced against how the floor is cleaned, because a surface the cleaning machine cannot clean trades one problem for another.
+An anti-slip top coat is standard on every Final Finish floor. It is a textured last layer. On commercial floors the texture is balanced against how the floor is cleaned, because a surface the cleaning machine cannot clean trades one problem for another.
 
 ## The order of work
 
@@ -50,7 +50,7 @@ The finish is the last coat down, not the first decision. Preparation sets what 
 2. Grinding. The slab is ground to open the surface before anything is applied.
 3. Cosmetic crack filling. Visible cracks are filled as part of preparation.
 4. The coating. Flake is broadcast, then scraped, then a top coat goes over it.
-5. An Anti-Slip Coating, if the room needs one. That is a use decision, made with you.
+5. An anti-slip top coat, standard on every floor. On commercial floors the texture is balanced against how the floor is cleaned.
 
 Installation usually runs two days, and it varies with the concrete. More detail is on https://www.finalfinishepoxy.ca/process
 

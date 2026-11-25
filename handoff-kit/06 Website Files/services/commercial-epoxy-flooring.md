@@ -6,7 +6,7 @@ Final Finish installs Torginol polymer flake floors in commercial spaces in Edmo
 
 Denis quotes from the slab in front of him. A free estimate can start from photos or from a visit. Installation usually runs two days, and it varies with the concrete.
 
-On commercial floors, an Anti-Slip Coating is a use decision. The texture is balanced against how the floor is cleaned, because a surface the cleaning machine cannot clean trades one problem for another.
+An anti-slip top coat is standard on every floor. On commercial floors the texture is balanced against how the floor is cleaned, because a surface the cleaning machine cannot clean trades one problem for another.
 
 Price, return-to-use time, and coverage terms are written into the quote after Denis has seen the slab.
 

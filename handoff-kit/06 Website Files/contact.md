@@ -6,7 +6,7 @@ Send photos for a free estimate, or book a visit. Either way, Denis looks at the
 
 - Call Denis: (780) 991-1651
 - Email: finalfinishepoxy@gmail.com
-- Hours: Monday to Friday, 8 a.m. to 5 p.m.
+- Hours: Monday to Friday, 8 a.m. to 5 p.m. Closed Saturday and Sunday.
 
 ## What shapes a quote
 

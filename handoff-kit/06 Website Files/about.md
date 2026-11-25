@@ -18,7 +18,7 @@ Grind, fill, coat, finish. The process page at https://www.finalfinishepoxy.ca/p
 
 - Phone: (780) 991-1651
 - Email: finalfinishepoxy@gmail.com
-- Hours: Monday to Friday, 8 a.m. to 5 p.m.
+- Hours: Monday to Friday, 8 a.m. to 5 p.m. Closed Saturday and Sunday.
 - Request a quote: https://www.finalfinishepoxy.ca/contact
 - Instagram: https://www.instagram.com/final_finish_epoxy/
 - Facebook: https://www.facebook.com/profile.php?id=61573826827114

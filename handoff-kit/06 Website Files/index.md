@@ -12,12 +12,12 @@ The work is built on proper Surface Preparation. Estimates are free, and the ser
 - Try a finish on a photo of your floor: https://www.finalfinishepoxy.ca/floor-visualizer
 - Call Denis at (780) 991-1651
 - Email: finalfinishepoxy@gmail.com
-- Hours: Monday to Friday, 8 a.m. to 5 p.m.
+- Hours: Monday to Friday, 8 a.m. to 5 p.m. Closed Saturday and Sunday.
 - Google Business Profile: https://www.google.com/maps?cid=7470239776211762202
 
 The homepage also shows Google reviews from customers, with a link out to Google. The footer and services pages say the business is rated 5.0 on Google.
 
-## Six services
+## Services
 
 See https://www.finalfinishepoxy.ca/services.
 
