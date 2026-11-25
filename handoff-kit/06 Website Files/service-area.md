@@ -2,7 +2,7 @@
 
 This is a plain-text version of https://www.finalfinishepoxy.ca/service-area. The HTML page is the source of truth. The facts below match that page.
 
-Final Finish is a service-area business based in Edmonton, Alberta. There is no showroom to visit. The company comes to the concrete, looks at it, and quotes from what is actually there. Founded by Denis. The floors are flake.
+Final Finish is a service-area business based in Edmonton, Alberta. There is no showroom to visit. The company comes to the concrete, looks at it, and quotes from what is actually there. Founded by Denis Tadic. The floors are flake.
 
 The service area is Central Alberta, from Edmonton out to Athabasca, about 145 km, including St. Albert and Athabasca. Timing for Athabasca is confirmed on the call. Other towns inside the radius are handled the same way: call with the address.
 

@@ -2,7 +2,7 @@
 
 This is a plain-text version of https://www.finalfinishepoxy.ca/about. The HTML page is the source of truth. The facts below match that page.
 
-Denis runs Final Finish in Edmonton. Final Finish Epoxy Coatings was founded by Denis. The company does quality floor makeovers in Edmonton, Alberta. The floors are flake, and it uses Torginol products. The person quoting your floor is the person on it.
+Denis Tadic runs Final Finish in Edmonton. Final Finish Epoxy Coatings was founded by Denis Tadic. The company does quality floor makeovers in Edmonton, Alberta. The floors are flake, and it uses Torginol products. The person quoting your floor is the person on it.
 
 ## How the work starts
 

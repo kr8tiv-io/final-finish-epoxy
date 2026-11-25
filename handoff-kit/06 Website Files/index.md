@@ -2,7 +2,7 @@
 
 This is a plain-text version of https://www.finalfinishepoxy.ca/. The HTML page is the source of truth. The facts below match that page.
 
-Final Finish Epoxy Coatings is an Edmonton flooring contractor founded by Denis. It installs Torginol flake floors for Edmonton garages, workshops, homes and commercial spaces. The slab is prepared first. Flake goes into the wet base.
+Final Finish Epoxy Coatings is an Edmonton flooring contractor founded by Denis Tadic. It installs Torginol flake floors for Edmonton garages, workshops, homes and commercial spaces. The slab is prepared first. Flake goes into the wet base.
 
 The work is built on proper Surface Preparation. Estimates are free, and the service area is Edmonton and Central Alberta, up to about 145 km out.
 
@@ -10,7 +10,7 @@ The work is built on proper Surface Preparation. Estimates are free, and the ser
 
 - Request a quote: https://www.finalfinishepoxy.ca/contact
 - Try a finish on a photo of your floor: https://www.finalfinishepoxy.ca/floor-visualizer
-- Call Denis at (780) 991-1651
+- Call Denis Tadic at (780) 991-1651
 - Email: finalfinishepoxy@gmail.com
 - Hours: Monday to Friday, 8 a.m. to 5 p.m. Closed Saturday and Sunday.
 - Google Business Profile: https://www.google.com/maps?cid=7470239776211762202

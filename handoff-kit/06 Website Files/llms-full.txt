@@ -1,6 +1,6 @@
 # Final Finish Epoxy Coatings: site map
 
-Last updated: 19 November 2026. This is a map of the public pages on https://www.finalfinishepoxy.ca/. The HTML pages are the source of truth. The short guide is https://www.finalfinishepoxy.ca/llms.txt. One-sentence summaries below are taken from the pages themselves (titles and meta descriptions, plus facts already written in /llms.txt). This file does not invent reviews, rankings, prices, or sales figures.
+Last updated: 24 November 2026. This is a map of the public pages on https://www.finalfinishepoxy.ca/. The HTML pages are the source of truth. The short guide is https://www.finalfinishepoxy.ca/llms.txt. One-sentence summaries below are taken from the pages themselves (titles and meta descriptions, plus facts already written in /llms.txt). This file does not invent reviews, rankings, prices, or sales figures.
 
 Prices are not published on the site. Estimates are free. Metallic epoxy and polished concrete are not listed as Final Finish services. The site uses Torginol products for the flake floors it installs; it does not say Torginol is the only product it uses.
 
@@ -9,7 +9,7 @@ Prices are not published on the site. Estimates are free. Metallic epoxy and pol
 - https://www.finalfinishepoxy.ca/
   Home. Torginol flake floors for Edmonton garages, homes and commercial spaces, built on proper Surface Preparation. Free estimates, up to about 145 km out.
 - https://www.finalfinishepoxy.ca/about
-  About. Final Finish Epoxy Coatings was founded by Denis. Flake floors and quality floor makeovers in Edmonton, Alberta. Torginol products. No showroom and no street address; the work happens at the customer's property.
+  About. Final Finish Epoxy Coatings was founded by Denis Tadic. Flake floors and quality floor makeovers in Edmonton, Alberta. Torginol products. No showroom and no street address; the work happens at the customer's property.
 - https://www.finalfinishepoxy.ca/contact
   Request a quote. Send photos for a free estimate, or book a visit. Denis looks at the concrete first.
 - https://www.finalfinishepoxy.ca/services

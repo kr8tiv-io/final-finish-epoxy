@@ -104,7 +104,7 @@ Use these to frame the right questions before a site visit. They do not replace 
 ## Get in touch
 
 - Request a quote: https://www.finalfinishepoxy.ca/contact
-- Call Denis at (780) 991-1651
+- Call Denis Tadic at (780) 991-1651
 - Email: finalfinishepoxy@gmail.com
 - Hours: Monday to Friday, 8 a.m. to 5 p.m. Closed Saturday and Sunday.
 - Google Business Profile: https://www.google.com/maps?cid=7470239776211762202

@@ -4,7 +4,7 @@ This is a plain-text version of https://www.finalfinishepoxy.ca/contact. The HTM
 
 Send photos for a free estimate, or book a visit. Either way, Denis looks at the concrete first. You do not need every detail worked out before you start.
 
-- Call Denis: (780) 991-1651
+- Call Denis Tadic: (780) 991-1651
 - Email: finalfinishepoxy@gmail.com
 - Hours: Monday to Friday, 8 a.m. to 5 p.m. Closed Saturday and Sunday.
 
